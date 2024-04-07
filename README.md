@@ -1,2 +1,2 @@
 # ad_in_ts
-Anamoly detection in time series
+Anomaly detection in time series
